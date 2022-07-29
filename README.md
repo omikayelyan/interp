@@ -1,4 +1,4 @@
-# interp
+# Interpreter
 Description of Interpreter
 I will introduce my own language , which is written according to C++
 language. Interpreter can do some operations such as declaration of
